@@ -1,0 +1,35 @@
+{
+  "name": "midnight-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yelloon",
+  "license": "ISC",
+  "dependencies": {
+    "@koenie06/discord.js-music": "^1.3.0",
+    "axios": "^0.27.2",
+    "canvas": "^2.9.3",
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "discord-arts": "^0.0.6",
+    "discord-gamecord": "^2.0.0",
+    "discord-logs": "^2.0.1",
+    "discord-modals": "^1.3.7",
+    "discord.js": "^13.5.1",
+    "dotenv": "^11.0.0",
+    "generate-password": "^1.7.0",
+    "javascript-obfuscator": "^4.0.0",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "qrcode-pix": "^4.0.1",
+    "quick.db": "^9.0.5",
+    "sourcebin": "^4.3.5",
+    "sql-events-listener": "^1.0.0",
+    "update": "^0.7.4"
+  }
+}
